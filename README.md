@@ -2,7 +2,7 @@
 
 A collection of links to projects that were created using OpenGL.
 
-*Click any image to view project on GitHub*<br/>
+*- Click any image to view project on GitHub -*<br/>
 <a href="https://github.com/kyle-robinson/opengl-tutorials" target="_blank">
         <img src="https://i.imgur.com/HD5ueVd.jpeg" alt="Water Simulation Thumbnail" border="10" width="48%" />
 </a>
