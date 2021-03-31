@@ -9,8 +9,8 @@ A collection of links to projects that were created using OpenGL.
 <a href="https://github.com/kyle-robinson/opengl-lighting" target="_blank">
         <img align="right" src="https://i.imgur.com/aeYkHGb.jpeg" alt="Shadow Mapping Thumbnail" border="10" width="48%" />
 </a>
-<pre align="left"><code>Graphical Simulations</code></pre>
-<pre align="right"><code>Lighting Simulations<code></pre>
+| Graphical Simulations | Lighting Simulations |
+| :-------------------- | -------------------: |
 
 <br>
 <br>
