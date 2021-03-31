@@ -1,16 +1,3 @@
-<style>
-table {
-    width:100%;
-}
-</style>
-
-<style>
-  body {
-   margin:0;
-   padding:0;
-  }
-</style>
-
 # OpenGL Projects
 
 A collection of links to projects that were created using OpenGL.
@@ -22,7 +9,8 @@ A collection of links to projects that were created using OpenGL.
 <a href="https://github.com/kyle-robinson/opengl-lighting" target="_blank">
         <img align="right" src="https://i.imgur.com/aeYkHGb.jpeg" alt="Shadow Mapping Thumbnail" border="10" width="48%" />
 </a>
-<div align="left">Graphics Simulations<span align="right">Lighting Simulations</span></div>
+<img align="left" alt="Graphics Simulations" width="48%" />
+<img align="right" alt="Lighting Simulations" width="48%" />
 
 <a href="https://github.com/kyle-robinson/opengl-cubes" target="_blank">
         <img align="left" src="https://i.imgur.com/kZqoY9r.png" alt="OpenGL Cube Project" border="10" width="48%" />
