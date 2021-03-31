@@ -22,25 +22,7 @@ A collection of links to projects that were created using OpenGL.
 <a href="https://github.com/kyle-robinson/opengl-lighting" target="_blank">
         <img align="right" src="https://i.imgur.com/aeYkHGb.jpeg" alt="Shadow Mapping Thumbnail" border="10" width="48%" />
 </a>
-<table>
-    <thead>
-        <tr>
-            <th align="left">Column1</th>
-            <th align="center">Column1</th>
-            <th align="right">Column1</th>
-        </tr>
-    </thead>
-    <tbody>
-        <tr>
-            <td align="left">Column1</td>
-            <td align="center">Column1</td>
-            <td align="right">Column1</td>
-        </tr>
-    </tbody>
-</table>
-
-<br>
-<br>
+Graphics Simulations<div align="right">Lighting Simulations</div>
 
 <a href="https://github.com/kyle-robinson/opengl-cubes" target="_blank">
         <img align="left" src="https://i.imgur.com/kZqoY9r.png" alt="OpenGL Cube Project" border="10" width="48%" />
