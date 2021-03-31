@@ -21,4 +21,4 @@ A collection of links to projects that were created using OpenGL.
 <a href="https://github.com/kyle-robinson/sonic-breakout" target="_blank">
         <img align="right" src="https://i.imgur.com/nFM0BQ2.png" alt="Sonic Breakout Thumbnail" border="10" width="48%" />
 </a>
-<div align="left">OpenGL Sandbox<a align="right">Sonic Breakout</a></div>
+<p align="left">OpenGL Sandbox<p align="right">Sonic Breakout</p></p>
