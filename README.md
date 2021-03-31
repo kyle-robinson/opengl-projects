@@ -14,7 +14,6 @@ Graphics Simulations
 Lighting Simulations
 
 <br>
-<br>
 
 <a href="https://github.com/kyle-robinson/opengl-cubes" target="_blank">
         <img align="left" src="https://i.imgur.com/kZqoY9r.png" alt="OpenGL Cube Project" border="10" width="48%" />
@@ -25,4 +24,3 @@ Lighting Simulations
 OpenGL Sandbox
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 Sonic Breakout
-<!-- I literally cannot find another way of aligning the descriptions below the images. -->
