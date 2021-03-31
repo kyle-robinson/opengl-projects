@@ -1,3 +1,16 @@
+<style>
+table {
+    width:100%;
+}
+</style>
+
+<style>
+  body {
+   margin:0;
+   padding:0;
+  }
+</style>
+
 # OpenGL Projects
 
 A collection of links to projects that were created using OpenGL.
@@ -9,10 +22,22 @@ A collection of links to projects that were created using OpenGL.
 <a href="https://github.com/kyle-robinson/opengl-lighting" target="_blank">
         <img align="right" src="https://i.imgur.com/aeYkHGb.jpeg" alt="Shadow Mapping Thumbnail" border="10" width="48%" />
 </a>
-| Syntax      | Description | Test Text     |
-| :---        |    :----:   |          ---: |
-| Header      | Title       | Here's this   |
-| Paragraph   | Text        | And more      |
+<table>
+    <thead>
+        <tr>
+            <th align="left">Column1</th>
+            <th align="center">Column1</th>
+            <th align="right">Column1</th>
+        </tr>
+    </thead>
+    <tbody>
+        <tr>
+            <td align="left">Column1</td>
+            <td align="center">Column1</td>
+            <td align="right">Column1</td>
+        </tr>
+    </tbody>
+</table>
 
 <br>
 <br>
