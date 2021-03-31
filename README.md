@@ -9,8 +9,9 @@ A collection of links to projects that were created using OpenGL.
 <a href="https://github.com/kyle-robinson/opengl-lighting" target="_blank">
         <img align="right" src="https://i.imgur.com/aeYkHGb.jpeg" alt="Shadow Mapping Thumbnail" border="10" width="48%" />
 </a>
-<object src="default.jpg" alt="Graphics Simulations" />
-<object src="default.jpg" alt="Lighting Simulations" />
+<object data="avatar.jpg" type="image/jpg">
+    <img src="default.jpg" alt="Graphics Simulations" />
+</object>
 
 <a href="https://github.com/kyle-robinson/opengl-cubes" target="_blank">
         <img align="left" src="https://i.imgur.com/kZqoY9r.png" alt="OpenGL Cube Project" border="10" width="48%" />
