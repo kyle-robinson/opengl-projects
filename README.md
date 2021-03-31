@@ -10,7 +10,7 @@ A collection of links to projects that were created using OpenGL.
         <img align="right" src="https://i.imgur.com/aeYkHGb.jpeg" alt="Shadow Mapping Thumbnail" border="10" width="48%" />
 </a>
 <img align="left" src="https://www.flaticon.com/svg/vstatic/svg/260/260236.svg?token=exp=1617162914~hmac=d99e6ce7ae1774d23b685d6123e67abc" width="2%" />Graphics Simulations
-<img align="right" src="https://www.flaticon.com/svg/vstatic/svg/260/260236.svg?token=exp=1617162914~hmac=d99e6ce7ae1774d23b685d6123e67abc" width="2%" />Lighting Simulations
+<img align="center" src="https://www.flaticon.com/svg/vstatic/svg/260/260236.svg?token=exp=1617162914~hmac=d99e6ce7ae1774d23b685d6123e67abc" width="2%" />Lighting Simulations
 
 <br>
 <br>
